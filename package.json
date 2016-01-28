@@ -1,10 +1,11 @@
 {
-  "name": "fork-of-preloadjs",
+  "name": "preloadjs",
   "version": "1.0.0",
   "description": "Fork of PreloadJS.",
   "author": "Boris Etingof <boris.etingof@gmail.com.au>",
   "license": "MIT",
   "dependencies": {},
+  "main": "overrides/preloadjs-0.6.2.combined.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/borisetingof/PreloadJS.git"
